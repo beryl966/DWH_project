@@ -1,2 +1,2 @@
 # DWH_project
-building with sql 
+building with DW project used for data analytics 
